@@ -1,4 +1,4 @@
-## Hi there, welcome in my GitHub. There are just a few projects, done for personal or academic uses. Some are AI oriented, others are just for software purposes or robotic projects.
+## Hi there 🔭 Welcome in my GitHub. There are just a few projects, done for personal or academic uses. Some are AI oriented, others are just for software purposes or robotic projects.
 
 <!--
 **Lddas/Lddas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
