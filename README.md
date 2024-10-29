@@ -1,5 +1,5 @@
 ## Hi there 🔭 
-Welcome in my GitHub. There are just a few projects, done for personal or academic uses. 
+Welcome in my GitHub. There are just a few projects, done for personal, professional or academic uses. 
 
 <!--
 **Lddas/Lddas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
